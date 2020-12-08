@@ -1,0 +1,12 @@
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\ssingh687\source\repos\Asp.Net-Web-API\Web API\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
